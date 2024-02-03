@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @George-Okumu, Technical Mentor, Fullstack Developer based in Kenya.
+<a><h2>Github Stats</h2></a>
+<div>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=George-Okumu&theme=onedark&custom_title=George+Okumu&hide_border=true&show_icons=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=George-Okumu&theme=soft-green&hide_border=true&mode=weekly"/>
+    </a>
+</div>
 
-- 👀 Experienced in Java (Android Development), HTML 5, Boostrap 3,Tailwind css, CSS 3, Vanilla Javascript,  React js, Laravel, Ruby and Ruby on Rails..
-- 🌱 I’m currently learning Devops.
-- 💞️ I’m looking to collaborate on Both fronted projects and Mobile Development
-- 📫 Reach me on: gokumu12@gmail.com
 
