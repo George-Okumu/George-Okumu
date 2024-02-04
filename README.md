@@ -25,6 +25,8 @@
 
 
 <a><h2>Github Stats</h2></a>
+[![Time coded](https://wakatime.com/badge/user/ce7596db-5b47-4a1b-9aec-666df69403f8.svg)](https://wakatime.com/@ce7596db-5b47-4a1b-9aec-666df69403f8)
+
 <div>
     <a href="https://github.com/George-Okumu">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=George-Okumu&theme=onedark&custom_title=George+Okumu&hide_border=true&show_icons=true"/>
@@ -34,8 +36,15 @@
     </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=George-Okumu&layout=donut&show_icons=true&theme=onedark&hide_border=true)](https://github.com/George-Okumu)
-
+<div>
+ <a href="https://github.com/George-Okumu">
+        <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Okumu&layout=donut&show_icons=true&theme=onedark&hide_border=true"/>
+    </a>
+    
+<a href="https://wakatime.com/@george_okumu">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=george_okumu&theme=onedark&hide_border=true"/>
+    </a>
+</div>
 
 <a><h2>🤝🏻 &nbsp;Let's Connect in</h2></a>
 
