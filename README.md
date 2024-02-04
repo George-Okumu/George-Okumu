@@ -34,7 +34,7 @@
     </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=George-Okumu&layout=donut&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=George-Okumu&layout=donut&show_icons=true&theme=onedark&hide_border=true)](https://github.com/George-Okumu)
 
 
 <a><h2>🤝🏻 &nbsp;Let's Connect in</h2></a>
