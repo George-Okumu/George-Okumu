@@ -2,7 +2,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=flat&logo=laravel&logoColor=white&labelColor=clear)
 ![Livewire](https://img.shields.io/badge/Livewire-black?style=flat&logo=livewire&logoColor=white&labelColor=clear)
@@ -10,15 +9,12 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=flat&logo=tailwind%20css&logoColor=%2306B6D4&labelColor=%23563D7C&color=%23563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Ruby](https://img.shields.io/badge/Ruby-black?style=flat&logo=ruby&logoColor=red&labelColor=clear)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat&logo=php&logoColor=white&labelColor=clear)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android-transparent?style=flat&logo=android-studio&logoColor=white&labelColor=clear)
 ![Intellij Idea](https://img.shields.io/badge/Intellij-black?style=flat&logo=intellij-idea&logoColor=white&labelColor=clear)
 
