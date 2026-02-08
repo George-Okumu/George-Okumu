@@ -24,22 +24,22 @@
 [![Time coded](https://wakatime.com/badge/user/ce7596db-5b47-4a1b-9aec-666df69403f8.svg)](https://wakatime.com/@ce7596db-5b47-4a1b-9aec-666df69403f8)
 
 <div>
-    <a href="https://github.com/George-Okumu">
+    <!-- <a href="https://github.com/George-Okumu">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&username=George-Okumu&theme=onedark&custom_title=George+Okumu&hide_border=true&show_icons=true&rank_icon=percentile"/>
-    </a>
+    </a> -->
     <a href="https://github.com/George-Okumu">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=George-Okumu&theme=soft-green&hide_border=true&mode=weekly"/>
     </a>
 </div>
 
 <div>
- <a href="https://github.com/George-Okumu">
+ <!-- <a href="https://github.com/George-Okumu">
         <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Okumu&layout=donut&show_icons=true&theme=onedark&hide_border=true"/>
-    </a>
+    </a> -->
     
-<a href="https://wakatime.com/@george_okumu">
+<!-- <a href="https://wakatime.com/@george_okumu">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=george_okumu&theme=onedark&hide_border=true&custom_title=Hours+Spent+Last+7+days"/>
-    </a>
+    </a> -->
 </div>
 
 <a><h2>🤝🏻 &nbsp;Let's Connect in</h2></a>
