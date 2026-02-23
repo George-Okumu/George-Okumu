@@ -23,6 +23,9 @@
 <a><h2>Github Stats</h2></a>
 [![Time coded](https://wakatime.com/badge/user/ce7596db-5b47-4a1b-9aec-666df69403f8.svg)](https://wakatime.com/@ce7596db-5b47-4a1b-9aec-666df69403f8)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div>
     <!-- <a href="https://github.com/George-Okumu">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&username=George-Okumu&theme=onedark&custom_title=George+Okumu&hide_border=true&show_icons=true&rank_icon=percentile"/>
