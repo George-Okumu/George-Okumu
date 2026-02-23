@@ -20,7 +20,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: https://github.com/George-Okumu/George-Okumu # optional
+          # REPOSITORY: https://github.com/George-Okumu/George-Okumu # optional
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
