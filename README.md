@@ -24,6 +24,24 @@
 [![Time coded](https://wakatime.com/badge/user/ce7596db-5b47-4a1b-9aec-666df69403f8.svg)](https://wakatime.com/@ce7596db-5b47-4a1b-9aec-666df69403f8)
 
 <!--START_SECTION:waka-->
+
+```java
+From: 11 July 2022 - To: 22 February 2026
+
+Total Time: 1,988 hrs 57 mins
+
+JavaScript        576 hrs 37 mins       >>>>>>>------------------   28.89 %
+HTML              428 hrs 11 mins       >>>>>--------------------   21.45 %
+Blade Template    271 hrs 10 mins       >>>----------------------   13.59 %
+Python            143 hrs 45 mins       >>-----------------------   07.20 %
+Java              136 hrs 18 mins       >>-----------------------   06.83 %
+TypeScript        121 hrs 58 mins       >>-----------------------   06.11 %
+PHP               110 hrs 26 mins       >------------------------   05.53 %
+Ruby              54 hrs 38 mins        >------------------------   02.74 %
+CSS               35 hrs 32 mins        -------------------------   01.78 %
+Markdown          18 hrs 33 mins        -------------------------   00.93 %
+```
+
 <!--END_SECTION:waka-->
 
 <div>
