@@ -12,7 +12,7 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: WakaReadme Metrics
     runs-on: ubuntu-latest
     steps:
         # this action name
@@ -35,7 +35,7 @@ jobs:
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: main # optional
+          TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
