@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```java
-From: 11 July 2022 - To: 01 September 2026
+From: 11 July 2022 - To: 02 September 2026
 
 JavaScript                              >>>>>>>------------------   26.47 %
 HTML                                    >>>>>--------------------   21.87 %
